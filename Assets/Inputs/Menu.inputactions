@@ -1,0 +1,34 @@
+{
+    "name": "Menu",
+    "maps": [
+        {
+            "name": "Select",
+            "id": "a0698408-23cf-4614-b0ce-a4e5da149229",
+            "actions": [
+                {
+                    "name": "Click",
+                    "type": "Button",
+                    "id": "de582b30-b455-4556-925d-7ce212073e3a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "3225b2da-1ca5-418b-9b7a-c1dff84db638",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
